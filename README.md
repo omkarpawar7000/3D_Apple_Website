@@ -1,13 +1,13 @@
 <div align="center">
   <br />
-      <img src="https://camo.githubusercontent.com/e18ee12f91eca2d9c7499e212774457a17e79789bb24efd6f62cbea848c5d7c8/68747470733a2f2f692e706f7374696d672e63632f3337506e5177386e2f496d6167652d66726f6d2e706e67" alt="Project Banner">
+      <img src="https://github.com/omkarpawar7000/3D_Apple_Website/blob/cba073f60041ebc6563e15617438069965273d73/apple_website.png" alt="Project Banner">
   <br />
 
   <div>
-    <img src="https://camo.githubusercontent.com/6d8b126f83c0e59e37021e68c3f650c5c98915301f4bf4db9661c8d1dc2725e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d726561637426636f6c6f723d363144414642" alt="reactjs" />
-    <img src="https://camo.githubusercontent.com/d333aaf2eaae70e8fdb7a92d2c90767abf48b4732d74ff52836c878bdc526fbb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54687265655f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7468726565646f746a7326636f6c6f723d303030303030" alt="threejs" />
-    <img src="https://camo.githubusercontent.com/f6b5c698c613ace5c409f5b9e5ac6af24af8de1453f99840c1df3a6e5d02dab0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d475341502d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d677265656e736f636b26636f6c6f723d383843453032" alt="gsap" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://github.com/omkarpawar7000/3D_Apple_Website/blob/cba073f60041ebc6563e15617438069965273d73/reactjs.svg" alt="reactjs" />
+    <img src="https://github.com/omkarpawar7000/3D_Apple_Website/blob/cba073f60041ebc6563e15617438069965273d73/threejs.svg" alt="threejs" />
+    <img src="https://github.com/omkarpawar7000/3D_Apple_Website/blob/cba073f60041ebc6563e15617438069965273d73/gsap.svg" alt="gsap" />
+    <img src="https://github.com/omkarpawar7000/3D_Apple_Website/blob/cba073f60041ebc6563e15617438069965273d73/tailwindcss.svg" alt="tailwindcss" />
   </div>
 
   <h3 align="center">3D Apple Website</h3>
